@@ -1,0 +1,157 @@
+body{
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
+h1 {
+	font-family: Arial, sans-serif;
+	font-size: 50px;
+	color: #369;
+	padding-bottom: 4px;
+	border-bottom: 1px solid #999;
+  margin-left: 70px;
+}
+
+ul {
+padding: 0;
+margin: 0;
+list-style-type: none;
+background-color: #4fb99f;
+overflow:auto;
+}
+ul li {
+float:left;
+border-bottom:3px solid #4fb99f;
+}
+ul li a {
+display: inline-block;
+padding: 12px 24px;
+text-decoration: none;
+color: #fff;
+margin-left: 70px;
+font-size: 18px;
+
+}
+ul li.menuler {
+background-color: #068587;
+border-bottom:3px solid #f2b134;
+}
+ul li:hover:not(.menuler) {
+background-color: #068587;
+border-bottom:3px solid #f2b134;
+}
+.arama-menu{
+  float: right;
+}
+.arama{
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+}
+.cizgi h2{
+  color: white;
+  margin-top: 20px;
+  text-align: left;
+  border-left: 6px solid blue;
+background-color: #828282;
+padding: 10px 0px 10px 10px;
+margin-right:  55%;
+}
+.benim-hakkimda{
+  margin-top: 5px;
+  display: table-cell;
+  vertical-align: middle;
+  border: 2px solid #CCCCCC;
+  height: 100px;
+  width: 400px;
+  color: black;
+  padding:10px;
+  display: table;
+}
+.cizgi-II h2{
+  margin-bottom: 30%;
+  color: white;
+  margin-top: -287px;
+  text-align: left;
+  border-left: 6px solid blue;
+background-color: #828282;
+padding: 10px 0px 10px 10px;
+margin-left: 55%;
+}
+.bolumum-hakkinda{
+  float: right;
+margin-top: -395px;
+  display: table-cell;
+  vertical-align: middle;
+  border: 2px solid #CCCCCC;
+  height: 100px;
+  width: 400px;
+  color: black;
+  padding:10px;
+  display: table;
+}
+.cizgi-III h2{
+  margin-left: 30px;
+  margin-right: 30px;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+  border-left: 6px solid blue;
+background-color: #828282;
+padding: 10px 10px 10px 10px;
+}
+.site-hakkinda{
+  margin-bottom: 5px;
+  margin-left: 30px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  border: 2px solid #CCCCCC;
+  height: 100px;
+  width: 94%;
+  color: black;
+  padding:10px;
+  display: table;
+}
+p2{
+  color: grey;
+}
+.tablo{
+  clear: both;
+}
+.tablo-I{
+  margin-top: 10px;
+  float: left;
+  padding: 10px;
+}
+.tablo-II{
+  margin-top: 10px;
+  float: right;
+}
+.tablo-III{
+  margin-top: 10px;
+  float: right;
+  margin-right: 220px;
+}
+.tablo-IV{
+  margin-top: 10px;
+  float: left;
+  margin-left: 220px;
+}
+
+.footer{
+  background-color: #7FFFD4;
+  clear: both;
+  padding: 10px;
+}
+footer{
+clear: both;
+overflow: auto;
+margin: auto;
+}
